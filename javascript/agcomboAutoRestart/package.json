@@ -1,0 +1,23 @@
+{
+  "name": "agcomboautorestart",
+  "version": "1.0.0",
+  "description": "This script was written for a watchdog that automatically restart the TIM router 'AGCOMBO' (DSL version A2pv6F039u.d26a) when network connection goes down.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/extoxesses/scriptsToolbox.git"
+  },
+  "author": "extoxesses",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/extoxesses/scriptsToolbox/issues"
+  },
+  "homepage": "https://github.com/extoxesses/scriptsToolbox#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "sjcl": "^1.0.8"
+  }
+}
